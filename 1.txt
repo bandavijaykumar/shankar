@@ -1,2 +1,7 @@
+
 instal git
+
 instal python
+
+instal git 
+install maveen
